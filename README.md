@@ -1,4 +1,4 @@
-![Screen](./screen.png)
+![Screen](./screen.jpg)
 
 写的比较急，因为项目比较急，写的通配性可能不强，没有用modal，
 也算是抛砖引玉，希望有兴趣的小伙伴做一些修改
